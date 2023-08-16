@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src=".github/preview.gif" alt="projeto DevLinks">
+  <img src=".github/preview.jpg" alt="projeto DevLinks">
 </p>
 
 ## 🚀 Tecnologias
